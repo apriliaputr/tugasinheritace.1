@@ -1,0 +1,1 @@
+# tugasinheritace.1
